@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning React and React Native.
 
-- 📫 How to reach me: epserradresi@gmail.com
+- 📫 How to reach me: aaydinn29@gmail.com
 
 ### Tech I Use ;
 
