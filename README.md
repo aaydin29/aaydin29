@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning React and React Native.
-- 📲 I have developed 4 applications for Play Store and continue to develop them.
+- 📲 I have developed 10+ applications for Play Store and continue to develop them.
 - 👨‍🎓 I have developed 15+ React Native learning projects for GitHub.
 
 - 📫 How to reach me: aaydinn29@gmail.com
